@@ -14,6 +14,8 @@
 
 ### Phase 2
 
+- The link to the story is: [NYC_CitiBike](https://public.tableau.com/views/NYC_CitiBike_16742763025120/NYCCitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 - In this phase, visualizations are created to make a solid presentation for the business proposal.
 
 - On the 1st dashboard, the peak hours of the periods when the CitiBikes are used are displayed. They are further bifurcated by the type of users. Another graph is displayed portraying the breakdown by gender. 
